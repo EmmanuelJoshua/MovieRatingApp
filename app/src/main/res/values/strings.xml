@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Movie Rater</string>
+    <string name="movie">Movie</string>
+    <string name="movie_card">Movie Images</string>
+    <string name="movies">Movies</string>
+    <string name="rater">Ratings</string>
+    <string name="agree">I Agree to all statements</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="about">About me</string>
+    <string name="remember">Remember me</string>
+    <string name="insert">Insert Movies</string>
+    <string name="social">Or continue with these social profiles</string>
+    <string name="member">Not a member?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="conpassword">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="marvel">Captain Marvel</string>
+    <string name="marvel_desc">Story of Carol Danvers as she becomes Captain Marvel.</string>
+    <string name="aquaman">Aquaman</string>
+    <string name="aquaman_desc">Arthur Curry returns home to Atlantis to Challenge his brother for the throne</string>
+    <string name="johnwick">John Wick</string>
+    <string name="johnwick2">John Wick 3: Parabellum</string>
+    <string name="johnwick_desc">John Wick is on the run after killing a member of the International Assassin\'s
+        Guild.
+    </string>
+    <string name="godzilla">Godzilla</string>
+    <string name="godzilla2">Godzilla : King of the monsters</string>
+    <string name="godzilla_desc">Rise of King Ghidorah as Godzilla challenges him for the Throne.</string>
+    <string name="submit">Submit</string>
+    <string name="review">Write a review.</string>
+</resources>

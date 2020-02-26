@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      tools:context=".movie_homepage">
+    <item
+            android:id="@+id/action_insertmovies"
+            android:title="@string/insert"
+            app:showAsAction="never">
+    </item>
+    <item
+            android:id="@+id/action_aboutus"
+            android:title="@string/about"
+            app:showAsAction="never">
+    </item>
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook">\uf09a</string>
+    <string name="twitter">\uf099</string>
+    <string name="instagram">\uf16d</string>
+    <string name="user">\uf007</string>
+    <string name="pass">\uf023</string>
+    <string name="movie_icon">\uf008</string>
+    <string name="movie_star">\uf005</string>
+    <string name="movie_star_half">\uf089</string>
+    <string name="envelope">\uf0e0</string>
+</resources>
